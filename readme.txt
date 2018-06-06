@@ -1,4 +1,4 @@
 this is a simple practise
 
-today is sunnyday
+today is happyday
 nice
